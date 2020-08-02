@@ -1,4 +1,12 @@
 
+
+![alt text](https://datonauts.com/wp-content/uploads/2016/10/Statistics-Word-Cloud.png)
+
+
+
+
+
+
 # statistic-concept-for-beginner
 
 
